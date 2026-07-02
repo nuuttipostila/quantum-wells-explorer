@@ -1,4 +1,3 @@
-```markdown
 # Quantum Wells Explorer
 
 **An interactive computational tool for simulating 1D quantum confinement.**
